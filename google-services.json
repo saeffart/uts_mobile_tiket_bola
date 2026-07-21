@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "603444703000",
+    "project_id": "tiketbolaapp-616e3",
+    "storage_bucket": "tiketbolaapp-616e3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603444703000:android:64135f5e47c0ba9ca0b86d",
+        "android_client_info": {
+          "package_name": "com.example.halaman_utama"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-rmaLpzlZRfQ1qQfI2YDRRRW63FH071w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
